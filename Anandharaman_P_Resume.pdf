@@ -1,0 +1,143 @@
+%PDF-1.4
+1 0 obj
+<<
+/Type /Catalog
+/Pages 2 0 R
+>>
+endobj
+2 0 obj
+<<
+/Type /Pages
+/Kids [3 0 R]
+/Count 1
+>>
+endobj
+3 0 obj
+<<
+/Type /Page
+/Parent 2 0 R
+/MediaBox [0 0 595 842]
+/Resources <<
+  /Font <<
+    /F1 4 0 R
+    /F2 5 0 R
+  >>
+>>
+/Contents 6 0 R
+>>
+endobj
+4 0 obj
+<<
+/Type /Font
+/Subtype /Type1
+/BaseFont /Helvetica-Bold
+>>
+endobj
+5 0 obj
+<<
+/Type /Font
+/Subtype /Type1
+/BaseFont /Helvetica
+>>
+endobj
+6 0 obj
+<< /Length 1850 >>
+stream
+BT
+/F1 18 Tf
+50 790 Td
+(ANANDHARAMAN P) Tj
+/F2 10 Tf
+0 -18 Td
+(Python Developer | Oracle & SQL Specialist | Software Developer) Tj
+0 -14 Td
+(Chennai, Tamil Nadu 600091 | +91 7904197874 | anandharaman44@gmail.com | github.com/PAnandharaman) Tj
+
+0 -24 Td
+/F1 12 Tf
+(PROFESSIONAL SUMMARY) Tj
+/F2 9.5 Tf
+0 -14 Td
+(Detail-oriented Computer Science Engineering graduate with hands-on experience in Python,) Tj
+0 -12 Td
+(SQL, and Oracle database development. Skilled in building data processing pipelines,) Tj
+0 -12 Td
+(automating reports, and writing optimized SQL queries. Reduced manual reporting effort by 40%.) Tj
+
+0 -20 Td
+/F1 12 Tf
+(TECHNICAL SKILLS) Tj
+/F2 9.5 Tf
+0 -14 Td
+(Programming Languages: Python, SQL) Tj
+0 -12 Td
+(Databases: Oracle, Relational Database Design, Schema Normalization) Tj
+0 -12 Td
+(Libraries & Tools: Pandas, CSV/Excel Automation, Exception Handling, Logging) Tj
+0 -12 Td
+(Core Competencies: Data Extraction, Aggregation, Report Generation, Problem Solving) Tj
+
+0 -20 Td
+/F1 12 Tf
+(PROJECTS) Tj
+0 -14 Td
+/F1 10.5 Tf
+(1. Sales Data Processing & Reporting System \(Python, Pandas, SQL\)) Tj
+/F2 9.5 Tf
+0 -12 Td
+(- Automated data cleaning and transformation pipeline for CSV and Excel sales datasets.) Tj
+0 -12 Td
+(- Wrote SQL queries for data aggregation and generated structured management reports.) Tj
+0 -12 Td
+(- Implemented logging and exception handling, reducing manual effort by 40%.) Tj
+
+0 -16 Td
+/F1 10.5 Tf
+(2. Employee Database Management System \(Oracle, SQL\)) Tj
+/F2 9.5 Tf
+0 -12 Td
+(- Designed normalized relational schema with primary/foreign keys and constraints in Oracle.) Tj
+0 -12 Td
+(- Authored complex SQL joins, subqueries, views, and aggregate payroll summaries.) Tj
+
+0 -16 Td
+/F1 10.5 Tf
+(3. Student Result Analysis Tool \(Python, Pandas, SQL\)) Tj
+/F2 9.5 Tf
+0 -12 Td
+(- Developed performance analysis pipeline calculating mark averages and pass percentages.) Tj
+0 -12 Td
+(- Generated student-wise and subject-wise analytic reports from exam records.) Tj
+
+0 -20 Td
+/F1 12 Tf
+(EDUCATION) Tj
+/F2 9.5 Tf
+0 -14 Td
+(Bachelor of Engineering in Computer Science and Engineering | Jan 2022) Tj
+0 -12 Td
+(A.V.C. College of Engineering, Anna University - GPA: 7.404 / 10) Tj
+0 -14 Td
+(Higher Secondary Education \(12th Grade\) - Swami Matriculation Higher Sec School - 68.9%) Tj
+0 -12 Td
+(Secondary School Leaving Certificate \(10th Grade\) - RajaVignesh Higher Sec School - 90.4%) Tj
+ET
+endstream
+endobj
+xref
+0 7
+0000000000 65535 f 
+0000000009 00000 n 
+0000000058 00000 n 
+0000000115 00000 n 
+0000000262 00000 n 
+0000000341 00000 n 
+0000000415 00000 n 
+trailer
+<<
+/Size 7
+/Root 1 0 R
+>>
+startxref
+2400
+%%EOF
